@@ -6,20 +6,30 @@
 body {
   background-color: aliceblue;
   text-align: center;
-  color: navy;
+  color: orange;
   margin: auto;
   font-family: water;
 }
 
 h1{
-  font-size: 30px;
+  font-size: 40px;
+  
+}
+
+h2{
+  color:blue;
+}
+
+h3{
+  font-family: fantasy;
+  color:black;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://media.istockphoto.com/id/1030344328/vector/under-sea-view.jpg?s=612x612&w=0&k=20&c=FhJFfdm7BJhejq_1TGQYscAlnWBdwhN-8qsX0KnFwN4=");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid blue;
 }
 
 
